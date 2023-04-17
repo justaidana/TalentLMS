@@ -1,0 +1,16 @@
+.dropdown {
+    margin-bottom: 10px; /* Adjust the margin value as desired */
+}
+
+span.notrans {
+display: none;
+}
+
+.my-heading {
+text-align: left;
+}
+
+.my-heading-text {
+font-weight: normal;
+color: rgb(8, 82, 148);
+}
